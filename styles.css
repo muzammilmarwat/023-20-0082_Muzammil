@@ -5,7 +5,7 @@ body {
   header {
     background-color: #DD6E6E;
     color: #fff;
-    padding: 20px;
+    padding: 14px;
     
   }
   
@@ -33,3 +33,10 @@ body {
     justify-content: center;
   }
   
+  .container-fluid {
+    height: 100vh;
+  }
+
+  .our-cat {
+    border-radius: 5%;
+  }
