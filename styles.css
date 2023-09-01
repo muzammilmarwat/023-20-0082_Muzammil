@@ -1,0 +1,35 @@
+body {
+    font-family: sans-serif;
+  }
+  
+  header {
+    background-color: #DD6E6E;
+    color: #fff;
+    padding: 20px;
+    
+  }
+  
+  h1 {
+    text-align:left ;
+  }
+  
+  img {
+    max-width: 100%;
+  
+  }
+  
+  .container {
+    width: 80%;
+    margin: 0 auto;
+  }
+  
+  p {
+    margin-top: 10px;
+  }
+  
+  footer {
+    background-color: #DD6E6E;
+    padding: 20px;
+    justify-content: center;
+  }
+  
